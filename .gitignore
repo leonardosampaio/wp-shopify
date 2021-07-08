@@ -1,0 +1,7 @@
+.history
+.vscode
+vendor
+configuration.json
+composer.lock
+.env
+temp

@@ -1,0 +1,3 @@
+[submodule "Basic-Auth"]
+	path = wordpress/plugins/Basic-Auth
+	url = git@github.com:leonardosampaio/Basic-Auth.git

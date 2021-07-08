@@ -1,0 +1,17 @@
+{
+    "host":"https://domain.com",
+
+    "shopifyApiKey":"",
+    "shopifySecret":"",
+    "shopifyScope":"read_locations,read_products,read_orders,write_inventory",
+
+    "wordpressDbHost":"localhost",
+    "wordpressDbName":"wordpress",
+    "wordpressDbUser":"user",
+    "wordpressDbPassword":"password",
+    "wordpressDbTablesPrefix":"wp_",
+
+    "metaKey":"telegram_credentials",
+
+    "wordPressAuthEndpointUrl":"http://localhost/wp-json/basic-auth/v1/check-auth"
+}

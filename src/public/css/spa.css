@@ -1,0 +1,6 @@
+.Polaris-Frame-ToastManager__ToastWrapper {
+    position: unset;
+}
+.toastAnimation {
+    --toast-translate-y-in: -80px;
+}
